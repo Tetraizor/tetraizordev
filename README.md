@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tetraizordev
+- 👀 I’m interested in making games and art.
+- 🌱 I’m currently learning Unity, Godot, 3D Design, 2D Art and much more
+- 📫 How to reach me at ozelumuthan@gmail.com
